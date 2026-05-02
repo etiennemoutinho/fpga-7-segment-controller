@@ -55,17 +55,17 @@ This module:
 
 ## File Structure
 
-src/
-TOP_projet_segments.vhd
-Filtre_boutons.vhd
-Bloc_Logique.vhd
-Bloc_Affichage.vhd
+src/  
+TOP_projet_segments.vhd  
+Filtre_boutons.vhd  
+Bloc_Logique.vhd  
+Bloc_Affichage.vhd  
 
-constraints/
-Basys-3-Master.xdc
+constraints/  
+Basys-3-Master.xdc  
 
-docs/
-architecture.jpg
+docs/  
+architecture.jpg  
 
 ---
 
@@ -95,6 +95,6 @@ architecture.jpg
 
 ## Author
 
-FPGA project developed as part of a digital design learning process using VHDL.
-Etienne Moutinho
+FPGA project developed as part of a digital design learning process using VHDL.  
+Etienne Moutinho  
 
